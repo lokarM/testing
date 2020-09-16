@@ -3,7 +3,7 @@ def f(x):
     return x
 
 def g(x):
-    return 42
+    return 142
 
 def gg():
     return "Še to"
