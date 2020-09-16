@@ -3,6 +3,6 @@ def f(x):
     return x
 
 def g(x):
-    return 142
+    return 42
 
     
