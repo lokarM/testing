@@ -1,6 +1,8 @@
-def f(x):
+def f(x, y):
+    return x + y
+def f1(x):
     """ """
-    return 10 + x
+    return f(x,x)
 
 def g(x):
     return 42
