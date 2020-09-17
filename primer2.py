@@ -1,6 +1,6 @@
 def f(x):
     """ """
-    return x
+    return 10 + x
 
 def g(x):
     return 42
