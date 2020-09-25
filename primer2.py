@@ -10,4 +10,4 @@ def g(x):
 def gg():
     return "Še to"
 
-    
+ prinT(gg())   
